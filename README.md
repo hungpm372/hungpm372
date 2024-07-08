@@ -93,4 +93,6 @@
 <a href="#" target="_blank">
   <img src="svg/phanminhhung-quotes.svg" width="846" height="150" alt="phanminhhung-official" />
 </a>
-
+<p align="center">
+ <img width="1000" src="svg/github-snake.svg" alt="snake"/>
+</p>
